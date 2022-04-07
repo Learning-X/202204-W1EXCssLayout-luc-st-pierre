@@ -45,6 +45,12 @@ html {
 }
 
 .main-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 6rem;
+  color: #fff;
+  background-color: #2d3142;
   grid-area: footer;
 }
 
